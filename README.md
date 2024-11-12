@@ -1,0 +1,2 @@
+# GSCV-YOLO
+Tugas Akhir
